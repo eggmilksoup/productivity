@@ -16,10 +16,11 @@ and whatever deadlines have passed in that time.
 
 ## Implementation roadmap:
 
- - [ ] find out how to check timestamps in racket
- - [ ] establish reading/writing files in racket
+ - [x] find out how to check timestamps in racket
+ - [x] establish reading/writing files in racket
  - [ ] handle daily tasks
- - [ ] test daily tasks
+ - [ ] handle scheduled events
+ - [ ] handle recurring events
  - [ ] implement a habit tracker
  - [ ] implement variable-term goals
  - [ ] ???
